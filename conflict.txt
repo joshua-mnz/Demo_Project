@@ -1,1 +1,5 @@
-Added the new file 
+<<<<<<< HEAD
+The content is from the search feature 
+=======
+The content is from the feature-search
+>>>>>>> feature-search
